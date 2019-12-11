@@ -18,7 +18,7 @@ steps:
 - task: GitVersion@5
   inputs:
     runtime: 'full'
-    configFilePath: 'GetVersion.yml'
+    configFilePath: 'GitVersion.yml'
 
 - task: NuGetToolInstaller@1
 
