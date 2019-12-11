@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ThingamajigActivities")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This library project creates activities allowing access to the fictional 'Thinkgamajig' system. This is to provide an example for CI/CD creation for dependent code.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ThingamajigActivities")]
